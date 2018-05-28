@@ -1,5 +1,5 @@
 ## Web_Crawler_Practice
-### 네이버 뮤비 랭킹 순위
+### 네이버 뮤비 랭킹 순위(naver_movie.py)
 * 네이버 뮤비에 소개되는 현재 뮤비 랭킹 보여주기
 ### 사용된 모듈 및 함수
 * requests
