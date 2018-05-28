@@ -7,5 +7,5 @@
   * 기본 내장 모듈이 아니기 때문에 각자 따로 설치를 해주어야함
 * BeautifulSoup
   * HTML과 XML을 파싱하는데 사용되는 파이썬 라이브러리
-
-### 코드 설명
+### 프로젝트 자세한 설명
+  * [JIMMY 블로그](http://nackwon.tistory.com/115?category=801105) 
