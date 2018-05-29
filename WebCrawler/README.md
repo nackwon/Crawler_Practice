@@ -9,3 +9,5 @@
   * HTML과 XML을 파싱하는데 사용되는 파이썬 라이브러리
 ### 프로젝트 자세한 설명
   * [JIMMY 블로그](http://nackwon.tistory.com/115?category=801105) 
+### 연습
+  * 벅스 주간 랭킹 보여
